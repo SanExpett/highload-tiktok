@@ -27,7 +27,7 @@ TikTok - платформа для просмотра коротких виде�
 ### Целевая аудитория
 - Весь мир.
 - Пользователи:
-    -  MAU 1.1 млрд. \[[1](https://www.demandsage.com/tiktok-user-statistics/))]
+    -  MAU 1.1 млрд. \[[1](https://www.demandsage.com/tiktok-user-statistics/)]
     -  4.7 млрд. скачиваний \[[2]( https://www.omnicoreagency.com/tiktok-statistics/)]
 
 - Распределение аудитории по странам \[[3](https://www.demandsage.com/tiktok-user-statistics/)]
