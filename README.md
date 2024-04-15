@@ -406,6 +406,8 @@ comment по video_id, остальные таблицы по id.
 |       Kafka        |                                      Брокер сообщений                                       |                                         Подходит для больших потоков данных                                         |
 |       Nginx        |                                       L7 балансировка                                       |                                    Простая настройка, высокая производительность                                    |
 
+## 9. Схема проекта
+![img.png](static/project.png)
 
 ## Источники
 1. https://www.demandsage.com/tiktok-user-statistics/
