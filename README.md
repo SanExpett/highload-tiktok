@@ -218,6 +218,8 @@ Nginx будет выступать в роли прокси-сервера и �
 ![img.png](static/mongo.png)
 #### Redis
 ![img.png](static/redis.png)
+#### Amazon S3
+![img.png](static/s3.png)
 #### ClickHouse
 ![img.png](static/clickhouse.png)
 
